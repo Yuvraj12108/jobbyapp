@@ -54,7 +54,7 @@ class ProfileDetails extends Component {
         <img src={profileImageUrl} alt="profile" className="profile-img" />
         <h1 className="profile-heading">{name}</h1>
         <p className="profile-bio">{shortBio}</p>
-        <h1 className="profile-heading">Teja Yeshamoni</h1>
+        <h1 className="profile-heading">Yuvraj Singh</h1>
         <p className="profile-bio">Frontend Developer</p>
       </div>
     )
